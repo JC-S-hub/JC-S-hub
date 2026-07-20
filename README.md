@@ -47,16 +47,15 @@ No dia a dia, trabalho principalmente com ERP Sankhya, banco de dados Oracle, Mi
 | **Integrações** | APIs, webhooks, automação de e-mails e troca de dados entre sistemas |
 | **Infraestrutura e segurança** | Governança, controle de acesso, firewall e padronização de ambientes |
 
-## Projetos que você encontrará aqui
+## Projetos em destaque
 
-Este perfil está sendo organizado para reunir projetos práticos, exemplos técnicos e soluções reutilizáveis, incluindo:
+### [Validações de período de referência no Sankhya](https://github.com/JC-S-hub/sankhya-validacoes-oracle)
 
-- Consultas e auditorias em Oracle SQL
-- Automações de processos corporativos
-- Dashboards e indicadores gerenciais
-- Integrações com APIs e webhooks
-- Soluções e relatórios para o ERP Sankhya
-- Documentação técnica e boas práticas de TI
+Duas triggers Oracle PL/SQL para controlar a obrigatoriedade e o limite temporal da `DTREFERENCIA` em lançamentos financeiros, com regras, exceções e matriz de testes documentadas.
+
+### [Gestão de multas com botão de ação e Flow](https://github.com/JC-S-hub/sankhya-flow-gestao-multas)
+
+Automação integrada no Sankhya com envio inicial controlado pelo usuário, acompanhamento de pendências e lembrete automático após cinco dias úteis completos. Inclui BPMN, JavaScript e documentação de implantação.
 
 ## Em evolução
 
